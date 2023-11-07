@@ -4,5 +4,6 @@ public class Student {
 	public static void main(String[] args) {
 		System.out.println("Student data 1");
 		System.out.println("Student data 2");
+		System.out.println("Student data 3");
 	}
 }
