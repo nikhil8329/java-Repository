@@ -7,10 +7,8 @@ public class Student {
 		System.out.println("Student data 3");
 		System.out.println("Student data 4");
 		System.out.println("Student data 5");
-<<<<<<< HEAD
 		System.out.println("student data 6");
-=======
 		System.out.println("Student Data 11");
->>>>>>> Employee23
+
 	}
 }
