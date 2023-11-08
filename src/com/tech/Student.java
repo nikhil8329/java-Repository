@@ -9,10 +9,10 @@ public class Student {
 		System.out.println("Student data 5");
 		System.out.println("student data 6");
 		System.out.println("Student Data 11");
-<<<<<<< HEAD
 
-=======
+
+
 		System.out.println("Employee Data ");
->>>>>>> Employee23
+
 	}
 }
