@@ -7,6 +7,6 @@ public class Student {
 		System.out.println("Student data 3");
 		System.out.println("Student data 4");
 		System.out.println("Student data 5");
-		System.out.println("Student data 6");
+		System.out.println("student data 6");
 	}
 }
